@@ -1,0 +1,30 @@
+git-scm.com
+
+
+--inicializar un proyecto
+
+git init
+
+-- que archivos tenemos antes de commit
+
+git status
+
+-- Añadir archivos area stay
+
+-- Crear usuario
+
+
+git config --global user.name "stalin9116"
+git config --global user.mail "stalin9116@gmail.com"
+
+--snapshot -- comit
+
+git commit
+
+-- log commit
+
+git log
+
+-- reversar snapshot
+
+git checkout -- index.html
